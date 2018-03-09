@@ -2,5 +2,5 @@
 
 - [retrieval-2017-cam](https://github.com/imatge-upc/retrieval-2017-cam): Class-Weighted Convolutional Features for Image Retrieval.(注: 以图搜图)
 
-
+- [Recurrent-Attention-CNN](https://github.com/Michael-Jing/Recurrent-Attention-CNN): Recurrent-Attention-CNN implementation in TensorFlow
 
