@@ -5,3 +5,5 @@
 - [Recurrent-Attention-CNN](https://github.com/Michael-Jing/Recurrent-Attention-CNN): Recurrent-Attention-CNN implementation in TensorFlow
 
 - [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources): Deep Learning and deep reinforcement learning research papers and some codes
+
+- [RT-StyleTransfer-forVideo](https://github.com/curaai/RT-StyleTransfer-forVideo): Real-Time Neural Style Transfer for Videos by Haozhi Huang, pytorch implementation
