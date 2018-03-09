@@ -4,3 +4,4 @@
 
 - [Recurrent-Attention-CNN](https://github.com/Michael-Jing/Recurrent-Attention-CNN): Recurrent-Attention-CNN implementation in TensorFlow
 
+- [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources): Deep Learning and deep reinforcement learning research papers and some codes
