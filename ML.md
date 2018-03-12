@@ -11,3 +11,5 @@
 - [FPN_Tensorflow](https://github.com/yangxue0827/FPN_Tensorflow):A Tensorflow implementation of FPN detection framework. 
 
 - [keras_to_tensorflow](https://github.com/amir-abdi/keras_to_tensorflow): General code to convert a trained keras model into an inference tensorflow model
+
+- [sphereface](https://github.com/wy1iu/sphereface): Implementation for <SphereFace: Deep Hypersphere Embedding for Face Recognition> in CVPR'17.
