@@ -9,3 +9,5 @@
 - [faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 
 - [cnki-downloader](https://github.com/amyhaber/cnki-downloader): 知网(CNKI)文献下载工具
+
+- [python-blogger](https://github.com/theatlantic/python-blogger):A fork of [python-blogger](http://code.google.com/p/python-blogger/), a python wrapper around the Blogger, Metaweblog, Wordpress, MovableType API.
