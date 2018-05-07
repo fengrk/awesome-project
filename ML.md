@@ -13,3 +13,5 @@
 - [keras_to_tensorflow](https://github.com/amir-abdi/keras_to_tensorflow): General code to convert a trained keras model into an inference tensorflow model
 
 - [sphereface](https://github.com/wy1iu/sphereface): Implementation for <SphereFace: Deep Hypersphere Embedding for Face Recognition> in CVPR'17.
+
+- [Fine-gained-Classification](https://github.com/wanzysky/Fine-gained-Classification): Tensorflow Implementation of Fine-gained Classification. (Note: Tensorflow implementation of MA-CNN)
